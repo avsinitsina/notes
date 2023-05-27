@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f82498a4ead3141",
+        "id": "d5466de3ed06177f",
         "type": "tabs",
         "children": [
           {
-            "id": "378cb05e213fb345",
+            "id": "3085262e6bffb4ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "378cb05e213fb345",
+  "active": "3085262e6bffb4ac",
   "lastOpenFiles": [
     "Performance Review/Junior+/Системный анализ.md",
+    "Performance Review/Junior+/Untitled.md",
     "Performance Review/Junior+",
     "Performance Review"
   ]
